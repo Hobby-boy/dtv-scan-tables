@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/RG26 5UD/NA/0/>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view?postcode=RG265UD>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Hannington
-# date (yyyy-mm-dd)    : 2014-03-25
+# date (yyyy-mm-dd)    : 2024-06-09
 #
 #----------------------------------------------------------------------------------------------
 [C45 BBC A]
@@ -30,22 +30,21 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C32 COM7 HD]
-	DELIVERY_SYSTEM = DVBT2
+[C32 L-BSG]
+	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
+	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
-	MODULATION = QAM/256
-	TRANSMISSION_MODE = 32K
-	GUARD_INTERVAL = 1/128
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
 	HIERARCHY = NONE
-	STREAM_ID = 0
 	INVERSION = AUTO
 
-[C41 SDN]
+[C40 SDN]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 634000000
+	FREQUENCY = 626000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -55,9 +54,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C44 ARQ A]
+[C43 ARQ A]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 658000000
+	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
@@ -67,9 +66,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C47 ARQ B]
+[C46 ARQ B]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 682000000
+	FREQUENCY = 674000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
